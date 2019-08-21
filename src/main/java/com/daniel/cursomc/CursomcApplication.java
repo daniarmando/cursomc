@@ -1,4 +1,4 @@
-package com.daniel.cursomvc;
+package com.daniel.cursomc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
